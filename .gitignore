@@ -1,0 +1,12 @@
+#ignore dolphin 
+.directory
+
+#ignore vscode configs
+.vscode/
+
+#ignore log-file
+*.log
+
+
+# .*
+# !.gitignore
